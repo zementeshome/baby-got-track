@@ -7,7 +7,7 @@ function Home() {
         <div className="main">
             <h1 className="main__title">Welcome</h1>
             <Link to='/game'>
-            <button className="main__button">Play!</button>
+            <button className="main__button">Play</button>
             </Link>
         </div>
     )
